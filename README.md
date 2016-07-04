@@ -4,4 +4,4 @@
 
 # golang-python
 
-**Docker** image based on golang:latest with pip installed
+**Docker** image based on golang:latest with pip and [migrate](https://github.com/mattes/migrate) installed
